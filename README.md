@@ -1,5 +1,18 @@
 <!-- 事務所名 -->
 <h1>朝川事務所</h1>
+<!-- 簡易お問い合わせ（上部） -->
+<div class="contact-top">
+  <p>
+    ご相談は、お電話またはメールでお気軽にどうぞ。
+  </p>
+  <p>
+  <a href="tel:0973-24-6178"
+   style="font-size: 1.4em; font-weight: bold; color: #000;">
+  📞 0973-24-6178
+</a>
+    <a href="mailto:asakawa.hita@gmail.com">✉️ メールで問い合わせる</a>
+  </p>
+</div>
 
 <!-- 事務所紹介 -->
 <p>
@@ -55,8 +68,8 @@
   営業時間：平日 9:00〜18:00（土・日・祝日は休業）<br>
   所在地：
 <a href="8WCQ+7H 日田市、大分県" target="_blank">
-  大分県日田市田島本町6番19号（市役所徒歩5分）
-</a><br>
+  📍大分県日田市田島本町6番19号（市役所徒歩5分）
+  </a><br>
     ※ ご相談内容によっては、時間外でも対応できる場合があります。
 </p>
 
@@ -66,8 +79,8 @@
 <div class="contact">
   <a href="tel:0973-24-6178">電話：0973-24-6178</a>
   
-  <a href="mailto:asakawa.hita@gmail.com">メール：asakawa.hita@gmail.com</a>
-  
+  <a href="mailto:asakawa.hita@gmail.com">メール：asakawa.hita@gmail.com </a>
+
   <a href="#">LINEでのお問い合わせ</a>
 </div>
 
