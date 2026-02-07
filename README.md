@@ -87,7 +87,7 @@
   
   <a href="mailto:asakawa.hita@gmail.com">メール：asakawa.hita@gmail.com </a>
 
-  <a href="#">LINEでのお問い合わせ</a> <p style="font-size: 0.9em;"> ※ 営業目的のご連絡はご遠慮ください。
+  <a href="https://line.me/R/ti/p/@720gqzxv">LINEでのお問い合わせ</a> <p style="font-size: 0.9em;"> ※ 営業目的のご連絡はご遠慮ください。
 </p>
 </div>
 
